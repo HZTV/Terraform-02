@@ -10,7 +10,7 @@
 
 **Пункт 5)**
 
-  ![image](https://github.com/HZTV/Terraform-02/assets/149588305/24786c8f-981e-450d-a477-6b922eb7273b)
+![image](https://github.com/HZTV/Terraform-02/assets/149588305/24786c8f-981e-450d-a477-6b922eb7273b)
 ![Скриншот 26-02-2024 151444](https://github.com/HZTV/Terraform-02/assets/149588305/fabe312f-bfd5-45b1-8fe6-cb942359fba2)
 
 
@@ -23,10 +23,12 @@
 ### Задание 4
 
 **Пункт 1,2)**
+
 ![Скриншот 28-02-2024 155935](https://github.com/HZTV/Terraform-02/assets/149588305/c9cb1621-11be-42b0-861e-d0f74ff5aa0d)
 
 
 #### Задание 5
 
 ***Пункт 1,2,3)***
+
 ![Скриншот 28-02-2024 194937](https://github.com/HZTV/Terraform-02/assets/149588305/90f8b5bb-1ab7-4fbb-9919-486200a907bc)
